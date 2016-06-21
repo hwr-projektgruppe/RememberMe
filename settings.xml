@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<config>
+    <login>7</login>
+    <text1><![CDATA[Hi,<br /><br />you weren't online for at least %s now.<br />I'd be glad to see you again. You'll find lots of new documents, for sure.<br /><br />Cheers<br /><br />Your Moodle<br /><br /><img src="http://moodle.de/pluginfile.php/1/theme_eledia_essential/logo/1458820455/moodle.png" />]]></text1> 
+    <text2><![CDATA[Lieber Studierender,<br />you haven't been online for at least %s. I would be honored to see you again. Surely, you will find a lot of new documents here, too.<br /><br />Sincerely<br /><br />Your Moodle<br /><br /><img src="http://moodle.de/pluginfile.php/1/theme_eledia_essential/logo/1458820455/moodle.png" />]]></text2>
+</config>
